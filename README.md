@@ -1,6 +1,9 @@
 # Malwina Prutis - website
 
 ## Demo version
+
+https://malwinaprutis.github.io/Homepage-Malwina-Prutis/
+
 https://github.com/MalwinaPrutis/Homepage-Malwina-Prutis/releases
 
 ![image](https://github.com/user-attachments/assets/bbb24686-0c55-49ea-ae0d-01539d17613d)
